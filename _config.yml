@@ -1,0 +1,28 @@
+name: hi
+favicon: null
+layout_spectrum: 0.2846288690343499
+typography_spectrum: 0.12036929954774678
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4419160906691104
+  lightness: 0.05115453479811549
+  saturation: 0.7407804129179567
+  rhythmicContrast: 0.07582304091192782
+purpose: []
