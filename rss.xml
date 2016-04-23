@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[hi]]></title>
         <description><![CDATA[hi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 06:26:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 12:55:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bah]]></title>
+            <description><![CDATA[<article><h1>Bah</h1><p>Hello, I guess. </p></article>]]></description>
+            <link>https://thegrid.ai/hi/bah/index.html</link>
+            <guid isPermaLink="false">be87f71b-61e7-4143-9529-068a113ec5e9</guid>
+            <pubDate>Sat, 23 Apr 2016 12:54:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[kicking tires]]></title>
-            <description><![CDATA[<article><h1>kicking tires</h1><p>hello</p></article>]]></description>
-            <link>undefinedkicking-tires/index.html</link>
+            <description><![CDATA[<p>hello</p>]]></description>
+            <link>https://thegrid.ai/hi/kicking-tires/index.html</link>
             <guid isPermaLink="false">d4b12cf4-9548-413c-bf65-f54a23878570</guid>
             <pubDate>Tue, 22 Dec 2015 06:26:06 GMT</pubDate>
         </item>
